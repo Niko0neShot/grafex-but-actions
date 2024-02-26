@@ -52,7 +52,7 @@ jobs:
           haxelib install flixel-shadertoy-shader-lr
           haxelib install openflPos
           haxelib install hscriptPos
-          haxelib install hscript-improved
+          haxelib git hscript-improved https://github.com/FNF-CNE-Devs/hscript-improved.git
           haxelib install webgl
           haxelib install flxanimate
           haxelib list
